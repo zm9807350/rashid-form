@@ -4,12 +4,12 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/Ashraf", "dest": "/Ashraf.js" },
-    { "src": "/Hasanlagarihala", "dest": "/Hasanlagarihala.js" },
-    { "src": "/Waris", "dest": "/Waris.js" },
-    { "src": "/qaisar", "dest": "/qaisar.js" },
-    { "src": "/Hamid", "dest": "/Hamid.js" },
-    { "src": "/Rafique", "dest": "/Rafique.js" },
+    { "src": "/tufail", "dest": "/tufail.js" },
+    { "src": "/Shazaib", "dest": "/Shazaib.js" },
+    { "src": "/sarmand", "dest": "/sarmand.js" },
+    { "src": "/umer", "dest": "/umer.js" },
+    { "src": "/subhan", "dest": "/subhan.js" },
+    { "src": "/Inayat", "dest": "/Inayat.js" },
     { "src": "/Sanaulah", "dest": "/Sanaulah.js" },
     { "src": "/faisal", "dest": "/faisal.js" }
   ]
